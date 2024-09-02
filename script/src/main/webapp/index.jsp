@@ -21,6 +21,7 @@
 		<li><a href="obj2.jsp">객체2</a></li>
 		<li><a href="obj3.jsp">객체3</a></li>
 		<li><a href="obj4.jsp">객체4</a></li>
+		<li><a href="obj5.jsp">객체5</a></li>
 	</ul>
 	
 	<h3>자바스크립트 기본 문법</h3>
